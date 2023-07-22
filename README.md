@@ -1,5 +1,5 @@
 
-# Employee Management System
+# EmpTrack
 
 EmpTrack is a command-line application that allows business owners to view and manage the departments, roles, and employees in their company, helping them organize and plan their business effectively.
 
