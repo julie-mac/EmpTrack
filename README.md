@@ -19,10 +19,9 @@ EmpTrack is a command-line application that allows business owners to view and m
 ## Usage 
 Run the application with `node index.js` in the command line, and follow the prompts given to browse and edit the database.
 
-View the following video to see how it all works:
-[Untitled_ Jul 22, 2023 4_55 AM.webm](https://github.com/julie-mac/EmpTrack/assets/123594716/a9e4c9cb-3164-4ae8-a4bf-5d35dded356d)
+View the following video on Youtube to see how it all works: [Click here]https://www.youtube.com/watch?v=o7jR6G4-_sE&ab_channel=JulieMacpherson)
 
-##### If the video above doesn't work, check out the [walkthrough video on Youtube.](https://www.youtube.com/watch?v=o7jR6G4-_sE&ab_channel=JulieMacpherson)
+
 
 
 ## License 
