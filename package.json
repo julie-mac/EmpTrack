@@ -10,7 +10,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "inquirer": "^8.2.4",
+    "dotenv": "^16.1.0",
+    "inquirer": "^8.2.5",
     "mysql2": "^3.3.3"
   }
 }
