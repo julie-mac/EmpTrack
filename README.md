@@ -20,6 +20,7 @@ EmpTrack is a command-line application that allows business owners to view and m
 Run the application with `node index.js` in the command line, and follow the prompts given to browse and edit the database.
 
 View the following video on Youtube to see how it all works: 
+
 [Click here]https://www.youtube.com/watch?v=o7jR6G4-_sE&ab_channel=JulieMacpherson)
 
 
