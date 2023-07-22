@@ -21,12 +21,12 @@ Run the application with `node index.js` in the command line, and follow the pro
 
 View the following video on Youtube to see how it all works: [Click here](https://youtu.be/siLiYvwN8q0)
 
-
-
-
 ## License 
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 This project is licensed under the MIT License.
+
 [Click here to view the MIT license](https://opensource.org/license/mit/)
 
 ## Contribution Guidelines
